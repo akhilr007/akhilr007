@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Rajan</h1>
-<h3 align="center">A passionate full-stack developer with knowledge on React, Express, Node. My area of interests lies in problem solving, Data structures and algorithms. I have sound knowledge of core subjects like DBMS, Operating system and OOPS. Previously have worked as Trainee Software Engineer in Marsh McClennan. Currently, looking for a job as a SDE1 or relevant software engineering opportunities.</h3>
+<h3 align="center">A passionate full-stack developer with knowledge on React, Express, Node. My area of interests lies in problem solving, Data structures and algorithms. Previously have worked as Trainee Software Engineer in Marsh McClennan. Currently, looking for a job as a SDE1 or relevant software engineering opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilr007&label=Profile%20views&color=0e75b6&style=flat" alt="akhilr007" /> </p>
 
