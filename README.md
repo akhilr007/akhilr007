@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Rajan</h1>
 <h3 align="center">A passionate full-stack developer with knowledge on React, Express, Node. My area of interests lies in problem solving, Data structures and algorithms. Currently, looking for a job as a SDE1 or relevant software engineering opportunities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilr007&label=Profile%20views&color=0e75b6&style=flat" alt="akhilr007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilr007" alt="akhilr007" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/__akhil__07" target="blank"><img src="https://img.shields.io/twitter/follow/__akhil__07?logo=twitter&style=for-the-badge" alt="__akhil__07" /></a> </p>
-
 - 🌱 I’m currently learning **springboot, java,**
 
 - 💬 Ask me about **react, node, express, javascript**
