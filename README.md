@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Rajan</h1>
-<h3 align="center">A passionate full-stack developer with knowledge on React, Express, Node. My area of interests lies in problem solving, Data structures and algorithms. Currently, looking for a job as a SDE1 or relevant software engineering opportunities.</h3>
+<h3 align="center">A passionate full-stack developer with knowledge on Java, Springboot, Golang. My area of interests lies in problem solving, Data structures and algorithms. Currently, looking for a job as a software engineer or relevant software engineering opportunities.</h3>
 
-- 🌱 I’m currently learning **springboot, java,**
-
-- 💬 Ask me about **react, node, express, javascript**
+- 💬 Ask me about **Java, Springboot, Golang, React**
 
 - 📫 How to reach me **rajanakhil07@gmail.com**
 
